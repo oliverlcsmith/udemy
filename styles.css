@@ -1,4 +1,9 @@
-.date {
-  border: 1px solid black;
-  text-align: center;
+/* dark blue #2c3e50 */
+/* light gray #ecf0f1 */
+.jumbotron {
+  background: url(./imgs/header.jpeg);
+}
+
+h1 {
+  text-transform: uppercase;
 }
