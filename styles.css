@@ -1,26 +1,4 @@
-h1 {
+.date {
+  border: 1px solid black;
   text-align: center;
-}
-
-table {
-  margin: 0 auto;
-}
-
-td {
-  height: 200px;
-  width: 200px;
-}
-
-.vertical {
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-}
-
-.horizontal {
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-}
-
-td:hover {
-  border: 1px solid red;
 }
